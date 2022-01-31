@@ -1,3 +1,3 @@
 # .github
 
-default files
+default files I use for developing web applications.
