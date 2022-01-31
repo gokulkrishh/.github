@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "ardenivanov.svelte-intellisense",
+    "christian-kohler.path-intellisense",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "GitHub.copilot",
+    "ms-vscode.sublime-keybindings",
+    "PKief.material-icon-theme",
+    "PKief.material-product-icons",
+    "ritwickdey.LiveServer",
+    "stylelint.vscode-stylelint",
+    "svelte.svelte-vscode",
+    "thedavej.night-owl-black",
+    "wix.vscode-import-cost"
+  ]
+}
